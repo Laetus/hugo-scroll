@@ -389,7 +389,7 @@ table td {
 }
 
 table th {
-  color: #000;
+  /* color: #000; */
 }
 
 table caption + thead tr:first-child th,
@@ -411,6 +411,7 @@ table table table {
 
 table tbody > tr:nth-child(odd) > td,
 table tbody > tr:nth-child(odd) > th {
+  color: #b80135;
   background-color: #f6f6f6;
 }
 
